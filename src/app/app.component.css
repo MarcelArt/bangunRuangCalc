@@ -15,3 +15,7 @@
   flex-direction: column;
   justify-content: space-between;
 }
+
+textarea {
+  min-height: 100px;
+}
